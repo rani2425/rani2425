@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @rani2425
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java Full Stack Cource
-- 😄 Pronouns: she/her
+I am a passionate and dedicated Java Full Stack Web Developer with a BSc in Computer Science and a Master’s degree completed in 2024. My extensive technical expertise spans a wide array of programming languages, frameworks, and tools, including C, C++, HTML, CSS, JavaScript, jQuery, Bootstrap, SQL, NoSQL, Core Java, Advanced Java, AngularJS, ReactJS, NodeJS, JDBC, JSP, Hibernate, Spring Core, Spring AOP, Spring JDBC, Spring MVC, and Spring Boot.
 
-<!---
-rani2425/rani2425 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Having completed a prestigious Java Full Stack Course, I have honed my skills in both frontend and backend development, enabling me to design and implement robust, scalable, and user-friendly web applications. My ability to seamlessly integrate innovative solutions with an emphasis on performance and user experience is one of my key strengths.
+
+Throughout my academic and practical journey, I have cultivated a deep understanding of modern web development practices and demonstrated a remarkable aptitude for adapting to new technologies and frameworks. My commitment to writing clean, efficient, and maintainable code is matched only by my enthusiasm for problem-solving and continuous learning.
+
+As a fresher in the industry, I am eager to bring my knowledge and skills to real-world projects. I thrive in collaborative environments and am excited about opportunities to contribute to dynamic teams tackling challenging and impactful projects. Let’s connect and explore how my skills, dedication, and innovative approach can contribute to achieving exceptional results together.
